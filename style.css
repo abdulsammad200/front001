@@ -1,0 +1,99 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  background-image: url("https://media.istockphoto.com/id/165981483/photo/water-is-life.webp?b=1&s=170667a&w=0&k=20&c=50DIeeBKHII_a38x7_qiZO7x22wUiyJWDVJhCj_DikE=");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.child {
+  color: white;
+  background-color: #451545;
+  height: 70px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.heading {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: -4px;
+}
+.child2 {
+  height: 200px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+}
+.child3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.one {
+  background-color: white;
+  height: 135px;
+  width: 180px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.two {
+  background-color: #451545;
+  height: 150px;
+  width: 180px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.three {
+  background-color: white;
+  height: 135px;
+  width: 180px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.child4 {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+.four {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: white;
+  height: 50px;
+  width: 750px;
+  padding-left: 15px;
+  padding-top: 25px;
+}
+.five {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  background-color: orange;
+  height: 75px;
+  width: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.six {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin-top: 5px;
+}
